@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.pacman3d","l":"com.example.pacman3d"}];updateSearchResults();

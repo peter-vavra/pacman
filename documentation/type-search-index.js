@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.pacman3d","l":"Pacman3D.Direction"},{"p":"com.example.pacman3d","l":"Pacman3D.Ghost"},{"p":"com.example.pacman3d","l":"Media"},{"p":"com.example.pacman3d","l":"Pacman3D"},{"p":"com.example.pacman3d","l":"Pacman3D.PelletRespawn"}];updateSearchResults();
